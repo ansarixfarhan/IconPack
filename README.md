@@ -2,7 +2,7 @@
 
 # 🎨 SnapTune Icon Pack
 
-**A Awesome collection of beautiful, community-crafted icons for [SnapTune](https://github.com/farhanansari888/SnapTune)**
+**A Awesome collection of beautiful, community-crafted icons for [SnapTune](https://github.com/ansarixfarhan/SnapTune)**
 
 </div>
 
